@@ -1,3 +1,6 @@
+//javascript
+// npm i prompt-sync
+
 const prompt = require("prompt-sync")();
 var a,b;
 var j,i =1;
